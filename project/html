@@ -1,0 +1,91 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>
+	IPD Training Project
+</title>
+<link rel="stylesheet" type="text/css" href="C:\Users\Dell\Desktop\sublime\project.css">
+</head>
+<body>
+	<h1> CYBER SECURITY</h1>
+	<main>
+		<aside class="left">
+	<div>
+	<h2 >Basic Terminologies</h2>
+	<details>
+		<summary>threat</summary>
+		<p>An event or action that has got the abiity to compromise system or to voilate security.</p>
+	</details>
+	<details>
+		<summary>exploit</summary>
+		<p>way to branch nthe security of machine through a loopm hole.</p>
+	</details>
+	<details>
+		<summary>vulnerability</summary>
+		<p>defined as existence of loop hole or weakness in the design or implementation that lead to undesirable,unexpected event that would comprpmise the machine.</p>
+	</details>
+	<details>
+		<summary>attacker</summary>
+		<p>any individual who compromises the security of machine illegitimately in order to steal,manipulate or to cause destruction of data.</p>
+	</details>
+	<details>
+		<summary>attack</summary>
+		<p>action that is performed by an attacker that would potentially harm the system or information stored in it.</p>
+	</details>
+	<details>
+		<summary>data theft</summary>
+		<p>action of information stealin from victims machine.</p>
+	</details>
+	<details>
+		<summary>cookie</summary>
+		<p>it is basically the inforemation provided by web server to web client and then sent back by browser each time it accsess that server</p>
+	</details>
+</div>
+<div><nav>
+	<h2 >Loss caused due to security attacks</h2>
+	<ul><li>financial</li><li> identity theft</li><li> resource unavailability</li> <li>data loss</li><li> resources misuse</li><li> loss of thrust</li></ul> </nav></div>
+
+<div >
+
+	<h2 >elements of security</h2>
+	<ul>
+		<li>confidentiality</li>
+		<li>integrity</li>
+		<li>availability</li>
+		<li>authenticity</li>
+		<li>non repudiation</li>
+	</ul>
+	</div>
+<div >
+	<h2 >what is to be secured?</h2>
+	<ul>
+		<li>hardware</li>
+		<li>software</li>
+		<li>information</li>
+		<li>communication</li>
+	</ul>
+	</div>
+<div >
+	<h2 >basic security guidelines</h2>
+	<ul>
+		<li>use of strong passwords</li>
+		<li>use of anti virus</li>
+		<li>regular backing up oy our important files and documents</li>
+		<li>using encryptions and digital signatures</li>
+		<li>using firewalls and intrusions detection system</li>
+	</ul>
+	</div></aside>
+	<section class="right">
+<div >
+	<h2 >http to https</h2><div>
+	<h4>Firefox</h4> “Options” → “Advanced” → “Certificates” → “View Certificates” → “Authorities”<br>
+	<h4>Windows </h4>“Control Panel” → “Internet Options” → “Content” — “Certificates” → “Trusted Root Certification Authorities / Intermediate Certification Authorities”<br>
+	<h4>Mac </h4>“Applications” → “Utilities” → “Keychain Access.” Under “Category,” pick Certificates”</div>
+
+</div></section></main>
+</body>
+</html>
+
+
+
